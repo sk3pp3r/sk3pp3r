@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Haim Cohen 
 
-🚀 **DevOps | DevSecOps | Infrastructure Engineer**  
-🔧 **Automation | Cloud | Security**  
+**DevOps 🚀 | DevSecOps 🔐 | Cloud Engineer 🌍 | Infrastructure Guru ⚙️ | AI-Driven Solutions💡**
 
 ---
 ## About Me  
@@ -33,7 +32,8 @@ I'm a DevOps/DevSecOps engineer with **15+ years of experience** in infrastructu
 
 ## 🛠 Skills & Expertise  
 
-| **Domain**                | **Technologies & Tools** |
+| 
+**Domain**                | **Technologies & Tools** |
 |---------------------------|-------------------------|
 | **Cloud & Virtualization** | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20"/> AWS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20" height="20"/> Azure, <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vsphere/vsphere-plain-wordmark.svg" width="20" height="20"/> VMware, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="20" height="20"/> Kubernetes |
 | **Infrastructure** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="20" height="20"/> Windows Server, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"/> Linux (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20" height="20"/> Ubuntu, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="20" height="20"/> CentOS, RHEL) |
