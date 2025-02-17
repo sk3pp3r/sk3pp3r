@@ -16,11 +16,12 @@ I'm a DevOps/DevSecOps engineer with **15+ years of experience** in infrastructu
 💡 I thrive on solving complex infrastructure challenges with automation and security-first approaches.
 
 ---
-
+<!--
 ## 🐍 GitHub Contributions
 ![snake gif](https://raw.githubusercontent.com/sk3pp3r/sk3pp3r/output/github-contribution-grid-snake.svg)
 
 ---
+-->
 
 ## 🚀 Projects & Tools  
 
