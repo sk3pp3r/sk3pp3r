@@ -34,16 +34,16 @@ I'm a DevOps/DevSecOps engineer with **15+ years of experience** in infrastructu
 
 | **Domain**                | **Technologies & Tools** |
 |---------------------------|-------------------------|
-| **Cloud & Virtualization** | AWS, Azure, VMware, Kubernetes (K8s) |
-| **Infrastructure**         | Windows Server, Linux (Ubuntu, CentOS, RHEL) |
-| **Networking & Security**  | Cisco, Fortigate, Firewall, PKI, SSL/TLS, IAM |
-| **Application Security (AppSec)** | OWASP Top 10, SAST, DAST, SCA, SBOM, Shift-Left Security |
-| **DevSecOps & Security Tools** | SonarQube, Trivy, GitLeaks, Checkmarx KICS, JFrog, Wiz |
-| **CI/CD & Secure SDLC**    | Azure DevOps, GitHub Actions, Jenkins, Secure Pipelines |
-| **Automation & IaC**       | Terraform, Ansible, PowerCLI |
-| **Monitoring & Logging**   | Prometheus, Grafana, Zabbix |
-| **Scripting & Coding**     | Python, Bash, PowerShell |
-| **Databases & Storage**    | MySQL, PostgreSQL, IBM Storwize, Dell EMC |
+| **Cloud & Virtualization** | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20"/> AWS, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20" height="20"/> Azure, <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vsphere/vsphere-plain-wordmark.svg" width="20" height="20"/> VMware, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="20" height="20"/> Kubernetes |
+| **Infrastructure** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="20" height="20"/> Windows Server, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"/> Linux (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20" height="20"/> Ubuntu, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="20" height="20"/> CentOS, RHEL) |
+| **Networking & Security** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="20" height="20"/> Cisco, 🛡️ Fortigate, 🔒 PKI, 🔐 SSL/TLS, 🔑 IAM |
+| **Application Security (AppSec)** | 🛡️ OWASP Top 10, 🔍 SAST, 🔎 DAST, 📦 SCA, 📋 SBOM |
+| **DevSecOps & Security Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="20" height="20"/> SonarQube, 🔍 Trivy, 🔐 GitLeaks, ✅ Checkmarx, 🏗️ JFrog, ☁️ Wiz |
+| **CI/CD & Secure SDLC** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20" height="20"/> Azure DevOps, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/> GitHub Actions, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="20" height="20"/> Jenkins |
+| **Automation & IaC** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="20" height="20"/> Terraform, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="20" height="20"/> Ansible, ⚡ PowerCLI |
+| **Monitoring & Logging** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="20" height="20"/> Prometheus, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="20" height="20"/> Grafana, 📊 Zabbix |
+| **Scripting & Coding** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="20" height="20"/> Bash, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="20" height="20"/> PowerShell |
+| **Databases & Storage** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL, 💾 IBM Storwize, 💽 Dell EMC |
 
 ---
 
